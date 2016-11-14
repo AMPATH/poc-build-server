@@ -2,5 +2,6 @@
   "buildDir":"/home/achachiez/Code/JS/Build/",
   "deployDir":"/home/achachiez/Code/JS/Deploy/",
   "gitRepo":"https://github.com/AMPATH/ng2-amrs.git",
-  "appName":"ng2-amrs"
+  "appName":"ng2-amrs",
+  "buildTime":"00 12,16 * * *"
 }
